@@ -14,6 +14,8 @@ Can a model learn to play Rock Paper Scissors by watching your hand? That was th
 
 The project took two passes: first building a custom CNN from scratch, then pivoting to fine-tune a pre-trained YOLOv5 model when the custom approach hit a hard engineering wall.
 
+[![Demo](https://img.youtube.com/vi/OIZLeyjSEeA/maxresdefault.jpg)](https://youtu.be/OIZLeyjSEeA)
+
 ---
 
 ## Dataset
@@ -105,10 +107,6 @@ rps-computer-vision/
 ---
 
 ## Demo
-
-Click to watch the full demo:
-
-[![Demo video](assets/test_image_1.png)](https://drive.google.com/drive/folders/1GZeOO7GgQopp6-Y5Fbok_l3-xr3c-M8c)
 
 📄 Full writeup and results on [Notion](https://edison-chen.notion.site/Rock-Paper-Scissors-w-Computer-Vision-CNNs-434b4dd7571e477fb7c53060f788508b?pvs=74)
 
