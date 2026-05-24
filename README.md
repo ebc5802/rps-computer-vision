@@ -62,13 +62,13 @@ Rather than continue fighting the variable tensor issue, we pivoted to **YOLOv5*
 
 <table>
   <tr>
-    <td><img src="assets/test_image_1.png" alt="Test 1" width="300"/></td>
-    <td><img src="assets/test_image_2.png" alt="Test 2" width="300"/></td>
+    <td><img src="assets/test_image_1.png" alt="Paper, Scissors" width="300"/></td>
+    <td><img src="assets/test_image_2.png" alt="Rock, Scissors" width="300"/></td>
     <td><img src="assets/batch_sample.png" alt="Batch sample" width="300"/></td>
   </tr>
   <tr>
-    <td align="center"><em>Test image 1</em></td>
-    <td align="center"><em>Test image 2</em></td>
+    <td align="center"><em>Paper, Scissors</em></td>
+    <td align="center"><em>Rock, Scissors</em></td>
     <td align="center"><em>Batch sample</em></td>
   </tr>
 </table>
@@ -106,7 +106,10 @@ rps-computer-vision/
 
 ## Demo
 
-📹 Full demo video available on [Google Drive](https://drive.google.com/drive/folders/1GZeOO7GgQopp6-Y5Fbok_l3-xr3c-M8c)
+Click to watch the full demo:
+
+[![Demo video](assets/test_image_1.png)](https://drive.google.com/drive/folders/1GZeOO7GgQopp6-Y5Fbok_l3-xr3c-M8c)
+
 📄 Full writeup and results on [Notion](https://edison-chen.notion.site/Rock-Paper-Scissors-w-Computer-Vision-CNNs-434b4dd7571e477fb7c53060f788508b?pvs=74)
 
 ---
