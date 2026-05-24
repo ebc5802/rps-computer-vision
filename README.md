@@ -116,4 +116,4 @@ rps-computer-vision/
 | Member | GitHub |
 |---|---|
 | Edison Chen | [@ebc5802](https://github.com/ebc5802) |
-| Tengis Gantulga | [LinkedIn](https://www.linkedin.com/in/otengis/) |
+| Tengis Otgonbaatar | [LinkedIn](https://www.linkedin.com/in/otengis/) |
